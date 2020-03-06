@@ -1,0 +1,21 @@
+main {background-color: lightgreen;}
+
+img {max-width: 200px;}
+
+section {
+    font-size: 0;
+    display: flex;
+    width: 80%;
+    background-color: lightgreen;
+    }
+
+
+
+
+.doppelt {flex: 2;}
+.einfach {flex: 1;} 
+.innen {padding: 50px;margin: 10px}
+.box {border: 5px solid blue;}
+
+.normal {font-size: 40;color: black;}
+
